@@ -51,7 +51,7 @@ export default function AdminDashboard() {
     navigate('/classes')
   }
 
-  return (
+  return(
     <div className="text-gray-800">
       {/* Welcome Section */}
       <section className="mb-6">
